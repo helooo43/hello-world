@@ -1,2 +1,2 @@
-# test
-my first test repo 
+# random projects 
+just some cool things i made 
