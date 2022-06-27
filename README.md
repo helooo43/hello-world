@@ -1,2 +1,2 @@
 # random projects 
-just some cool things i made 
+just some things i made 
