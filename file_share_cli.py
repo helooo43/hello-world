@@ -1,7 +1,7 @@
 import socket
-IP = input('The ip of the host machine:- ')
+IP = input('The ip of the host machine:-')
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-s.connect((IP, 8080))
+s.connect((IP, 9592))
 print('connected')
 
 
@@ -26,5 +26,6 @@ while True:
             file.close()
             print('done')
             break
+
 
 
