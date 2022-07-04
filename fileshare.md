@@ -5,7 +5,7 @@ ___
 all u have to do is:
 - input the ip of the local host device(the one that will be sharing the files)
 - the file name with the extension
-- wait for the output"done" and share another file!
+- wait for the output "done" and share another file!
 ___
 NEW FEATURES!
 --
