@@ -10,4 +10,4 @@ ___
 NEW FEATURES!
 --
 the ability to have multiple connections with sevral pcs and share files between one server and sevral client at super high speeds with the option to send 
-specific files to specific pcs while keeping all the contections 
+specific files to specific pcs while keeping all the connections 
